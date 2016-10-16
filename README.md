@@ -5,4 +5,4 @@ This repository is an OpenSource book with tips and tricks about Android Develop
 
 ## Google Services
 
-[Google Aanalytics](google-services/google-analitics.md)
+[Google Aanalytics](google-services/google-analytics.md)
