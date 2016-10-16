@@ -9,10 +9,10 @@ Google Analytics
  - Update your project's AndroidManifest.xml file to include the INTERNET and ACCESS_NETWORK_STATE permissions  
  
  - Update Gradle adding the plugin to your project by updating your top-level build.gradle and your app-level build.gradle:  
- https://developers.google.com/analytics/devguides/collection/android/v4/?configured=true#set-up-your-project)
+ https://developers.google.com/analytics/devguides/collection/android/v4/?configured=true#set-up-your-project
  
  - Remember to generate google-services.json selecting Google Analytics Account:  
- https://developers.google.com/analytics/devguides/collection/android/v4/?configured=true#get-config)
+ https://developers.google.com/analytics/devguides/collection/android/v4/?configured=true#get-config
  
  - Copy the google-services.json file you just downloaded into the app/ or mobile/ directory of your Android Studio project
  
