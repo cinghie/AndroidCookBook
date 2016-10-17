@@ -3,8 +3,9 @@ Android Cookbook
 
 This repository is an OpenSource book with tips and tricks about Android Development
 
-## Google Services Guides
+## Documentations and Guides
 
+[Crashlytics] (http://www.androidwarriors.com/2015/08/crashlytics-android-studio-tutorial.html)
 [Google Analytics](google-services/google-analytics.md)
 
 ## Quickstart Examples
