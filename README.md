@@ -8,6 +8,7 @@ This repository is an OpenSource book with tips and tricks about Android Develop
  - Firebase: https://firebase.google.com/docs/android/setup  
  - Crashlytics: https://firebase.google.com/docs/crashlytics/get-started  
  - Performance Monitoring: https://firebase.google.com/docs/perf-mon/get-started-android   
+ - Firebase Analytics: https://firebase.google.com/docs/analytics/android/start   
 
 ## Quickstart Examples
 
