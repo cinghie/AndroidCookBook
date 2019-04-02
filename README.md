@@ -5,7 +5,8 @@ This repository is an OpenSource book with tips and tricks about Android Develop
 
 ## Documentations and Guides
 
-[Crashlytics] (http://www.androidwarriors.com/2015/08/crashlytics-android-studio-tutorial.html)  
+[Firebase] (https://firebase.google.com/docs/android/setup)  
+[Crashlytics] (https://firebase.google.com/docs/crashlytics/get-started)  
 [Google Analytics](google-services/google-analytics.md)
 
 ## Quickstart Examples
